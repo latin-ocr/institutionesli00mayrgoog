@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./institutionesli00mayrgoog_0025.png"; bbox 0 0 2172 3352; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 220 24 1932 287">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 220 24 1932 287">
+     <span class='ocr_line' id='line_1_1' title="bbox 538 24 1932 147; baseline -0.002 -35"><span class='ocrx_word' id='word_1_1' title='bbox 538 37 660 112; x_wconf 82' lang='lat' dir='ltr'><em>De</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 668 24 1499 147; x_wconf 56' lang='lat' dir='ltr'><em>ponetifflufflcap.</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 1517 36 1570 110; x_wconf 84' lang='lat'><em>1.</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 1866 45 1932 141; x_wconf 57' lang='grc' dir='ltr'><strong><em>φ</em></strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 220 161 1915 287; baseline 0.005 -13"><span class='ocrx_word' id='word_1_5' title='bbox 220 161 510 287; x_wconf 60' lang='lat' dir='ltr'><em>eeffl‘est</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 523 183 625 287; x_wconf 70' lang='lat'><em>1?-</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 642 164 1915 287; x_wconf 53' lang='lat' dir='ltr'><em>tgppnyrqaxpgoffgqulemqa</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 45 2809 1990 3149">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 45 2809 1990 3149">
+     <span class='ocr_line' id='line_1_3' title="bbox 225 2809 1913 2944; baseline -0.004 -50.004"><span class='ocrx_word' id='word_1_8' title='bbox 224 2809 1404 2945; x_wconf 52' lang='lat' dir='ltr'><em>talt‘velpffi&#39;fmminuppeffetur?</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 1431 2816 1575 2914; x_wconf 62' lang='lat' dir='ltr'><em>non</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 1601 2812 1913 2936; x_wconf 55' lang='lat' dir='ltr'><em>stficil?</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 45 2925 1990 3149; baseline -0.015 -92"><span class='ocrx_word' id='word_1_11' title='bbox 45 3099 49 3108; x_wconf 69' lang='lat'>,</span> <span class='ocrx_word' id='word_1_12' title='bbox 179 2925 580 3149; x_wconf 27' lang='lat' dir='ltr'><em>‘Qum</em></span> <span class='ocrx_word' id='word_1_13' title='bbox 1040 3040 1133 3143; x_wconf 59' lang='lat' dir='ltr'>A</span> <span class='ocrx_word' id='word_1_14' title='bbox 1250 3070 1287 3148; x_wconf 48' lang='grc' dir='ltr'><strong><em>Ξ</em></strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 1496 3018 1990 3143; x_wconf 40' lang='lat' dir='ltr'>§APUT</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
